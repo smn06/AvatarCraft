@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Project Organization](#Project Organization)
+2. [Project Organization](#ProjectOrganization)
 3. [Features](#features)
 4. [Installation](#installation)
 5. [Usage](#usage)
